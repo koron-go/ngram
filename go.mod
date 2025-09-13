@@ -1,5 +1,5 @@
 module github.com/koron-go/ngram
 
-go 1.14
+go 1.21
 
-require github.com/google/go-cmp v0.5.6
+require github.com/google/go-cmp v0.7.0
